@@ -2,7 +2,7 @@
     Hi 👋, I'm Idan Horowitz
 </h1>
 <h3 align="center">
-    Developer and hobbyist security researcher
+    Developer and interested in Reverse Engineering
 </h3>
 <p align="center">
     <a href="https://www.java.com" target="_blank">
