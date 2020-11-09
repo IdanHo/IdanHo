@@ -37,5 +37,5 @@
     </a>
 </p>
 <p align="center">
-    <img align="center" alt="idanho" src="https://github-readme-stats.vercel.app/api?username=idanho&count_private=true&hide_border=true&show_icons=true&theme=shades-of-purple&icon_color=fad000"/>
+    <img align="center" alt="idanho" src="https://github-readme-stats.vercel.app/api?username=idanho&count_private=true&hide_border=true&show_icons=true"/>
 </p>
